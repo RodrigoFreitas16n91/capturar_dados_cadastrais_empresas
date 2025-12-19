@@ -8,7 +8,7 @@ https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/Cnpjreva_Comprovante.a
 '''
 
 # Função comprimentar que recebe o argumento msg
-def comprimentar(msg):
+def cumprimentar(msg):
     print(msg)
 
 
@@ -25,6 +25,6 @@ def comprimentar(msg):
 
 if __name__ == '__main__':
     msg="Hello World"
-    comprimentar(msg)
+    cumprimentar(msg)
 
 
